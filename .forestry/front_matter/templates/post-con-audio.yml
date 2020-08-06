@@ -21,3 +21,8 @@ fields:
 - type: text
   name: excerpt_separator
   label: excerpt_separator
+- name: audio
+  type: text
+  config:
+    required: false
+  label: Audio
