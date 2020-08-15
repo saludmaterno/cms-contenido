@@ -35,6 +35,7 @@ permalink: feed.json
             "summary": {{ post.excerpt | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "tags": {{ post.tags | jsonify }},
+            "categories": {{ post.categories | jsonify }},
             "image": "{{ post.image | absolute_url }}"
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
