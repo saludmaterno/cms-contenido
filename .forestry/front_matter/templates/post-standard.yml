@@ -16,3 +16,13 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: post_id
+  type: number
+  label: Post id
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
