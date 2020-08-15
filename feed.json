@@ -19,6 +19,7 @@ permalink: feed.json
         {% for post in site.posts %}
         {
             "id": "{{ post.url | absolute_url | sha1 }}",
+            "post_id": "{{ post.post_id }}",
             "url": "{{ site.url }}{{ post.url }}",
             "title": {{ post.title | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
