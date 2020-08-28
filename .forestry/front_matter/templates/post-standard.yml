@@ -6,8 +6,8 @@ fields:
   name: title
   label: title
 - type: text
-  name: excerpt_separator
-  label: excerpt_separator
+  name: summary
+  label: Summary
 - name: categories
   type: tag_list
   default: []
