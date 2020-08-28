@@ -5,7 +5,7 @@ tags: []
 post_id: 1
 title: Post de tabaquismo I
 excerpt_separator: Fumar está mal
-image: ''
+image: assets/images/unsplash-image-4.jpg
 summary: Fumar está mal
 
 ---
