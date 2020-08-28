@@ -5,7 +5,7 @@ tags: []
 post_id: 1
 title: Post de tabaquismo I
 excerpt_separator: Fumar está mal
-image: "/images/markup-syntax-highlighting-teaser.jpg"
+image: ''
 
 ---
 ![](/images/photo4947257435832297596.jpg)[https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1](https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1 "https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1")
