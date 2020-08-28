@@ -8,7 +8,9 @@ excerpt_separator: Fumar está mal
 image: ''
 
 ---
-![](/images/photo4947257435832297596.jpg)[https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1](https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1 "https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1")
+![](/images/photo4947257435832297596.jpg)
+
+[https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1](https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1 "https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ionMblS4jLad1KKhGmXotgHaFG%26pid%3DApi&f=1")
 
 Las familias están integradas por diversas personas que ocupan distintos roles. Pero no todas las familias son iguales.
 
