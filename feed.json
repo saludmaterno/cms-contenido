@@ -32,7 +32,7 @@ permalink: feed.json
                 "name": "{{ site.author.name }}",
                 "url": "{{ site.url }}"
             },
-            "summary": {{ post.excerpt | jsonify }},
+            "summary": {{ post.summary | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "tags": {{ post.tags | jsonify }},
             "categories": {{ post.categories | jsonify }},
