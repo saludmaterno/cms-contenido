@@ -26,3 +26,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- _posts/post-de-tabaquismo-i.md
