@@ -8,7 +8,7 @@ summary: 'Lavarse las manos frecuentemente con agua y jabón. También puede usa
   un desinfectante de manos a base de alcohol  ¿Por qué hacer esto? Lavarse las manos
   con agua y jabón o utilizar un desinfectante a base de alcohol mata el virus que
   puede estar en sus manos.  '
-image: assets/images/012_limpieza_manos.svg
+image: "/assets/images/012_limpieza_manos.png"
 video: ''
 
 ---
