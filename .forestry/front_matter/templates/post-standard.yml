@@ -31,5 +31,11 @@ fields:
   config:
     maxSize: 64
   label: Imagen
+- name: video
+  type: text
+  config:
+    required: false
+  label: Video
+  description: URL a contenido en la web
 pages:
 - _posts/2020-08-28-post-de-tabaquismo-i.md
