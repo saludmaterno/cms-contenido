@@ -6,7 +6,7 @@ post_id: 3
 title: "¿Cuándo llevar a tu hijo a la guardia en tiempos de pandemia?"
 summary: Entérate qué aspectos debes tener en cuenta.
 image: "/assets/images/003_cuid_cov_cartel_audio.png"
-video: https://www.youtube.com/watch?v=49qW9U2f2Fg
+video: "\"https://www.youtube-nocookie.com/embed/2a4o9j_D-xs?controls=0"
 
 ---
 ![](/assets/images/003_cuid_cov_cartel_audio.png)
