@@ -5,10 +5,7 @@ categories:
 tags: []
 post_id: 12
 title: Medidas de protección básicas contra el nuevo coronavirus
-summary: 'Lavarse las manos frecuentemente con agua y jabón. También puede usarse
-  un desinfectante de manos a base de alcohol  ¿Por qué hacer esto? Lavarse las manos
-  con agua y jabón o utilizar un desinfectante a base de alcohol mata el virus que
-  puede estar en sus manos.  '
+summary: 'Lavarse las manos frecuentemente con agua y jabón. '
 image: "/assets/images/012_limpieza_manos.png"
 video: ''
 
