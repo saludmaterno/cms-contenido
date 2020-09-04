@@ -1,6 +1,7 @@
 ---
 categories:
 - pandemic-healthcare
+- featured
 tags: []
 post_id: 12
 title: Medidas de protección básicas contra el nuevo coronavirus
