@@ -3,11 +3,12 @@ categories:
 - lactation
 - featured
 tags: []
-post_id: 16
+post_id: "16"
 title: "¿Cómo debería cambiar la alimentación durante la lactancia?"
 summary: Consejos sobre la alimentación durante la lactancia
 image: "/assets/images/016_alimentacion_lactancia-01.png"
 video: ''
+gestation_week: 7
 
 ---
 A las cantidades diarias indicadas durante el embarazo se necesitaría agregar: 
