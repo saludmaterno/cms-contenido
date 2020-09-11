@@ -2,11 +2,12 @@
 categories:
 - safe-sleep
 tags: []
-post_id: 59
+post_id: "59"
 title: Recomendaciones sobre sueño seguro para el o la bebé durante la pandemia
 summary: Recomendaciones sobre sueño seguro para el o la bebé durante la pandemia
 image: "/assets/images/059_sueno.png"
 video: https://www.youtube.com/embed/hbcBk9zQ90A?controls=0
+gestation_week: 0
 
 ---
 **_Tené el calendario de vacunas actualizado._**
