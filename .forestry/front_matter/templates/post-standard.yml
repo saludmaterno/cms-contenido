@@ -16,16 +16,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: post_id
-  type: number
-  label: Post id
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 - name: image
   type: file
   config:
@@ -37,7 +27,20 @@ fields:
     required: false
   label: Video
   description: URL a contenido en la web
+- name: post_id
+  type: text
+  config:
+    required: false
+  label: Post id
+- name: gestation_week
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Semana de Gestación
 pages:
 - _posts/2020-09-01-controles-de-salud-en-infantes.md
-- _posts/como-deberia-cambiar-la-alimentacion-durante-la-lactancia.md
-- _posts/recomendaciones-sobre-sueno-seguro-para-el-o-la-bebe-durante-la-pandemia.md
