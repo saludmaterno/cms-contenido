@@ -37,7 +37,8 @@ permalink: feed.json
             "tags": {{ post.tags | jsonify }},
             "categories": {{ post.categories | jsonify }},
             "image": "{{ post.image | absolute_url }}",
-            "video": "{{ post.video }}"
+            "video": "{{ post.video }}",
+            "gestation_week": "{{ post.gestation_week }}"
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
     ]
