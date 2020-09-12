@@ -3,7 +3,7 @@ categories:
 - pandemic-healthcare
 - featured
 tags: []
-post_id: '0012'
+post_id: '012'
 title: Medidas de protección básicas contra el nuevo coronavirus
 summary: Lavarse las manos frecuentemente con agua y jabón.
 image: "/assets/images/012_limpieza_manos.png"
