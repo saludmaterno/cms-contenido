@@ -3,7 +3,7 @@ categories:
 - lactation
 - featured
 tags: []
-post_id: "16"
+post_id: '0016'
 title: "¿Cómo debería cambiar la alimentación durante la lactancia?"
 summary: Consejos sobre la alimentación durante la lactancia
 image: "/assets/images/016_alimentacion_lactancia-01.png"
