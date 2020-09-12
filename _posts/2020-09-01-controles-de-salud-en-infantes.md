@@ -2,7 +2,7 @@
 categories:
 - health
 tags: []
-post_id: "34"
+post_id: '0034'
 title: Controles de Salud en Infantes
 summary: Durante la pandemia, te acercamos recomendaciones sobre  los controles en
   salud para niños sanos menores de 12 meses.
