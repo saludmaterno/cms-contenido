@@ -4,8 +4,8 @@ categories:
 tags: []
 gestation_week: 0
 title: "¿El nuevo Coronavirus Covid19 puede transmitirse a través de los alimentos?"
-summary: Algo que resuma
-image: "/assets/images/011_limpieza_alimentos.png"
+summary: Alimentos seguros para toda la familia
+image: "/assets/images/limpieza_alimentos.png"
 video: ''
 post_id: '011'
 
@@ -16,9 +16,9 @@ Si bien la fuente de la infección inicial en China fue algún animal, el virus 
 
 Se recomienda limpiar muy bien los objetos que se tocan con frecuencia (llaves, anteojos, picaportes, celulares) y consumir en forma segura los alimentos, especialmente los que se comen crudos.
 
-![](/assets/images/011_limpieza_alimentos.png)
+![](/assets/images/image896.png)
 
-**LIMPIAR Y DESINFECTAR**
+#### LIMPIAR Y DESINFECTAR
 
 Lavar con agua y detergente utensilios (ollas, cuchillos) y superficies antes y después de cocinar, preparar o servir alimentos.
 
@@ -38,7 +38,7 @@ Usar utensilios diferentes, como platos, tenedores, cucharas, para manipular ali
 
 A la hora de elegir qué cocinar, es muy importante pensar en la frase “Lo Primero que Entra es lo Primero que Sale”. Deberá consumirse primero lo que tenga una fecha de vencimiento más cercana.
 
-**PUNTOS CRÍTICOS A TENER EN CUENTA PARA EVITAR LA CONTAMINACIÓN DE ALIMENTOS.**
+#### PUNTOS CRÍTICOS A TENER EN CUENTA PARA EVITAR LA CONTAMINACIÓN DE ALIMENTOS
 
 * Lavar siempre correctamente las manos y utensilios antes de manipular o agarrar alimentos. NUNCA usar utensilios oxidados.
 * Lavar y desinfectar los alimentos que se van a utilizar.
@@ -47,12 +47,12 @@ A la hora de elegir qué cocinar, es muy importante pensar en la frase “Lo Pri
 * Calcular las cantidades justas que se van a cocinar, evitando recalentar o dejar los alimentos sobre la mesa o sobre una mesada o mostrador.No dejar alimentos cocidos a temperatura ambiente por más de 2 horas.
 * Servir los alimentos con utensilios limpios
 
-**CUIDADOS AL MOMENTO DE LA COMPRA DE ALIMENTOS.**
+#### CUIDADOS AL MOMENTO DE LA COMPRA DE ALIMENTOS
 
 Planificar las compras para saber qué comprar y para estar el menor tiempo posible en el comercio. Este es un buen hábito que también se puede mantener a futuro.
 
-Preferentemente ir solos a hacer las compras, usando barbijo y en los horarios menos concurridos. Mantener distancia de las otras personas (al menos 1 metro).
+Preferentemente no ir en grupo a hacer las compras, usando barbijo y en los horarios menos concurridos. Mantener distancia de las otras personas (al menos 1 metro).
 
 Es mejor usar carrito propio o bolsa en lugar del carro del supermercado, para evitar tocar ciertas superficies. Esto no es siempre posible, por eso es importante lavarnos las manos al regresar a casa luego de hacer las compras.
 
-**Adaptado de sugerencias del Ministerio de Salud de la Nación**
+FUENTE: Adaptado de sugerencias del Ministerio de Salud de la Nación
