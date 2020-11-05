@@ -1,5 +1,6 @@
 ---
-categories: []
+categories:
+- pandemic-healthcare
 tags: []
 gestation_week: 0
 title: Crianza en hogares sobrepoblados
