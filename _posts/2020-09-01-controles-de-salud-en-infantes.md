@@ -8,7 +8,7 @@ summary: Durante la pandemia, te acercamos recomendaciones sobre  los controles 
   salud para niños y niñas sanos menores de 12 meses
 image: "/assets/images/034_controles_infantes.png"
 video: ''
-gestation_week: 
+gestation_week: 0
 
 ---
 ![](/assets/images/034_controles_infantes.png)
