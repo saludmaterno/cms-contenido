@@ -2,7 +2,7 @@
 categories:
 - nutrition
 tags: []
-gestation_week: 0
+gestation_week: 4
 title: Grupos de Alimentos Básicos
 summary: Comer variado es fundamental para vivir con salud
 image: "/assets/images/apple-red-wood-fruit-healthy-1427363.png"
