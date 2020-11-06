@@ -7,7 +7,7 @@ title: "¿Cómo debemos lavarnos correctamente las manos?"
 summary: Medidas de protección básicas frente al coronavirus
 image: "/assets/images/limpieza_manos.png"
 video: ''
-post_id: ''
+post_id: '012'
 
 ---
 #### ¿Cuáles son nuestras mejores medidas de protección?
