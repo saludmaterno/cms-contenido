@@ -2,7 +2,7 @@
 categories:
 - nutrition
 tags: []
-gestation_week: 0
+gestation_week: 4
 title: Para una alimentación saludable
 summary: La alimentación adecuada durante el embarazo es de vital.
 image: "/assets/images/013_alimentacion_embarazo.png"
