@@ -12,13 +12,13 @@ video: ''
 post_id: '016'
 
 ---
-¿Cómo debería cambiar la alimentación durante la lactancia?
+#### ¿Cómo debería cambiar la alimentación durante la lactancia?
 
 A las cantidades diarias indicadas durante el embarazo se necesitaría agregar:
 
 * Leches, yogures y quesos: 2 tazas más o su reemplazo.
 * Carnes: Si consumís carne, podés agregar una 1 porción pequeña.
-* Hortalizas: sobre todo verdes o amarillas y si es posible crudas: 1 porción más de lo habitual. 
+* Hortalizas: sobre todo verdes o amarillas y si es posible crudas: 1 porción más de lo habitual.
 * Frutas: 1 unidad mediana.
 * Aceite: 1 cucharada sopera más de lo habitual.
 * Pan: 1 chico.
