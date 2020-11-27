@@ -12,9 +12,9 @@ video: ''
 post_id: '018'
 
 ---
-DOS RECETAS RICAS EN HIDRATOS DE CARBONO 
+#### Dos recetas ricas en hidratos de carbono
 
-Las primeras comidas son más importantes como momento de aprendizaje que desde el punto de vista de la nutrición. Para el o la bebé será todo nuevo y seguramente jugará o tirará la comida. Sé paciente y ofrecé siempre los alimentos con amor. Los niños sanos son capaces de comunicar claramente cuándo se sienten satisfechos: cierran la boca y se niegan a comer, giran la cabeza o simplemente pierden interés en la cuchara. Nunca hay que obligarles a seguir comiendo. Respetar su sensación de saciedad les permitirá ser adultos más saludables. 
+Las primeras comidas son más importantes como momento de aprendizaje que desde el punto de vista de la nutrición. Para el o la bebé será todo nuevo y seguramente jugará o tirará la comida. Sé paciente y ofrecé siempre los alimentos con amor. Los niños sanos son capaces de comunicar claramente cuándo se sienten satisfechos: cierran la boca y se niegan a comer, giran la cabeza o simplemente pierden interés en la cuchara. Nunca hay que obligarles a seguir comiendo. Respetar su sensación de saciedad les permitirá ser adultos más saludables.
 
 Los hidratos de carbono presentes en las verduras y frutas son una importante fuente de energía y vitamina A, fundamental para el crecimiento y para fortalecer las defensas contras las infecciones. También en los vegetales encontramos ácidos grasos esenciales (tipos de grasa muy importantes que nuestro cuerpo necesita pero no puede fabricar por sí solo)
 
@@ -45,8 +45,6 @@ Ingredientes
 
 Preparación
 
-Pelar la batata, hervirla y hacerla puré. Si la batata tiene muchos hilos, pasarla por un tamiz o colador. Mezclar con el arroz cocido, usando la batidora de mano, un tenedor o un pisapuré. Agregar el aceite (siempre del envase, NUNCA reciclar aceite que se haya usado para freir). Para lograr una cremita liviana se puede agregar leche materna, que además aporta vitaminas. 
-
- 
+Pelar la batata, hervirla y hacerla puré. Si la batata tiene muchos hilos, pasarla por un tamiz o colador. Mezclar con el arroz cocido, usando la batidora de mano, un tenedor o un pisapuré. Agregar el aceite (siempre del envase, NUNCA reciclar aceite que se haya usado para freir). Para lograr una cremita liviana se puede agregar leche materna, que además aporta vitaminas.
 
 Fuente: Texto adaptado de "La comida del bebé" - Juliana López May y Ministerio de Salud de la Nación
