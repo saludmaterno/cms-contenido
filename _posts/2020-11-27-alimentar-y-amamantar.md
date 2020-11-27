@@ -4,12 +4,12 @@ categories:
 - lactation
 - nutrition
 tags: []
-gestation_week: 0
+gestation_week: 40
 title: Alimentar y amamantar
 summary: "¿Cómo debería cambiar la alimentación durante la lactancia?"
 image: "/assets/images/alimentacion_lactancia.png"
 video: ''
-post_id: ''
+post_id: '016'
 
 ---
 ¿Cómo debería cambiar la alimentación durante la lactancia?
