@@ -4,7 +4,7 @@ tags:
 - health
 - rising
 - nutrition
-gestation_week: 0
+gestation_week: 64
 title: Alimentación complementaria
 summary: Acompañemos el crecimiento con la comida adecuada
 image: "/assets/images/026_alimentacion_complementaria.png"
