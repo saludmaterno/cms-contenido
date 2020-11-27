@@ -9,7 +9,7 @@ title: Alimentación complementaria
 summary: Acompañemos el crecimiento con la comida adecuada
 image: "/assets/images/026_alimentacion_complementaria.png"
 video: ''
-post_id: "26"
+post_id: '026'
 
 ---
 
