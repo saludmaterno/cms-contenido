@@ -10,7 +10,7 @@ summary: Los hábitos alimentarios se aprenden en casa y pueden durar toda la vi
   ¡Seamos buenos ejemplos!
 image: "/assets/images/a1-1.png"
 video: ''
-post_id: "24"
+post_id: '024'
 
 ---
 #### Dos recetas ricas en hidratos de carbono
