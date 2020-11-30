@@ -5,7 +5,7 @@ tags:
 - nutrition
 - rising
 gestation_week: 76
-title: La comida a partir de los 9 meses
+title: 'La comida a partir de los 9 meses: hidratos de carbono'
 summary: Los hábitos alimentarios se aprenden en casa y pueden durar toda la vida.
   ¡Seamos buenos ejemplos!
 image: "/assets/images/a1-1.png"
