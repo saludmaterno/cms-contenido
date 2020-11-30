@@ -9,7 +9,7 @@ title: 'La comida a partir de los 9 meses: legumbres'
 summary: Recetas ideales para compartir con toda la familia
 image: "/assets/images/a1-2.png"
 video: ''
-post_id: "25"
+post_id: '025'
 
 ---
 #### Legumbres
