@@ -2,12 +2,12 @@
 categories: []
 tags:
 - health
-gestation_week: 0
+gestation_week: 12
 title: "¿Qué se hace durante los controles del embarazo? "
 summary: Consejos para tu salud
 image: "/assets/images/que_se_hace_en_controles_embarazo.png"
 video: ''
-post_id: ''
+post_id: '031'
 
 ---
 ¿Qué se hace durante los controles del embarazo? 
