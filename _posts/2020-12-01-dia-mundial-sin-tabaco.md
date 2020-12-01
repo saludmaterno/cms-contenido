@@ -1,6 +1,9 @@
 ---
 categories: []
-tags: []
+tags:
+- health
+- respiratory-diseases
+- smoking
 gestation_week: 0
 title: Día Mundial sin Tabaco
 summary: Promovamos un ambiente libre de humo de tabaco

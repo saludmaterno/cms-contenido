@@ -1,6 +1,9 @@
 ---
 categories: []
-tags: []
+tags:
+- health
+- respiratory-diseases
+- smoking
 gestation_week: 0
 title: 'Consumo de cigarrillo: componentes tóxicos'
 summary: Consejos de la Red Argentina de Jóvenes Libres de Tabaco
