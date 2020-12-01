@@ -1,5 +1,8 @@
 ---
-categories: []
+categories:
+- vaccines
+- health
+- rising
 tags:
 - 'vaccines '
 - health
