@@ -1,8 +1,8 @@
 ---
-categories: []
-tags:
+categories:
 - vaccines
 - health
+tags: []
 gestation_week: 4
 title: Cuidar nuestra salud toda la vida
 summary: Vacunarnos es nuestro derecho
