@@ -1,5 +1,7 @@
 ---
-categories: []
+categories:
+- health
+- rising
 tags:
 - health
 - rising
