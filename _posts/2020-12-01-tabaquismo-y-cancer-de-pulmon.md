@@ -1,5 +1,8 @@
 ---
-categories: []
+categories:
+- respiratory-diseases
+- health
+- smoking
 tags:
 - respiratory-diseases
 - health
