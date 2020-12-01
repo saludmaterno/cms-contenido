@@ -1,5 +1,7 @@
 ---
-categories: []
+categories:
+- respiratory-diseases
+- health
 tags: []
 gestation_week: 72
 title: Menores con asma y uso de aerocámara
