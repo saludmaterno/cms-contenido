@@ -1,9 +1,9 @@
 ---
-categories: []
-tags:
+categories:
 - respiratory-diseases
-- 'health '
+- health
 - smoking
+tags: []
 gestation_week: 0
 title: 'Enfermedades respiratorias crónicas '
 summary: Dolencias pulmonares producto del tabaquismo
