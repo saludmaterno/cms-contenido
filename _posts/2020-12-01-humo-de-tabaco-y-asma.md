@@ -1,9 +1,9 @@
 ---
-categories: []
-tags:
+categories:
 - respiratory-diseases
 - health
 - smoking
+tags: []
 gestation_week: 0
 title: Humo de tabaco y asma
 summary: "¿Cuáles son las consecuencias de la exposición a humo de tabaco?"
