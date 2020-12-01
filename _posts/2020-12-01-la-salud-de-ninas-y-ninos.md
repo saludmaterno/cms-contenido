@@ -1,6 +1,8 @@
 ---
 categories: []
-tags: []
+tags:
+- health
+- rising
 gestation_week: 48
 title: La salud de niñas y niños
 summary: "¿Cuándo tenemos que llevarlos al consultorio?"
