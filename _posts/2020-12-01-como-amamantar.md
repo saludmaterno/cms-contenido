@@ -4,14 +4,14 @@ categories:
 - health
 - rising
 tags: []
-gestation_week: 0
+gestation_week: 40
 title: "¿Cómo amamantar?"
 summary: La lactancia natural brinda muchos beneficios, protegiendo al o a la bebé
   frente a muchos problemas de salud.  También tiene beneficios para la persona que
   da el pecho.
 image: "/assets/images/055_como_amamantar.png"
 video: ''
-post_id: ''
+post_id: '055'
 
 ---
 #### ¿Cómo amamantar?
