@@ -1,5 +1,7 @@
 ---
-categories: []
+categories:
+- vaccines
+- health
 tags:
 - vaccines
 - health
