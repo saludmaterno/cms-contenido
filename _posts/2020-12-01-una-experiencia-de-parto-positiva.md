@@ -11,4 +11,4 @@ video: ''
 post_id: "27"
 
 ---
-![](/assets/images/emb_cov_001.png)![](/assets/images/emb_cov_001.png)
+![](/assets/images/emb_cov_001.png)
