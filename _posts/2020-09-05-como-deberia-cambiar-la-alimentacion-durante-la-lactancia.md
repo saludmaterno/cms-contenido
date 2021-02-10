@@ -11,6 +11,8 @@ video: ''
 gestation_week: 7
 
 ---
+**¿Cómo debería cambiar la alimentación durante la lactancia?**
+
 A las cantidades diarias indicadas durante el embarazo se necesitaría agregar:
 
 * Leches, yogures y quesos: 2 tazas más o su reemplazo.
@@ -25,7 +27,9 @@ La lactancia ofrece innumerables beneficios para el o la bebé y la familia.
 * La leche está adaptada a las necesidades y posibilidades del bebé y por ello se digiere más fácilmente que cualquier otra leche de otros animales.
 * Se debe alimentar a los bebés UNICAMENTE con leche materna durante los primeros 6 meses y continuar amamantando hasta los 2 años y más. ¡Este es el mejor comienzo para la vida!
 
-![](/assets/images/image907.png)Es **recomendable** que la persona embarazada:
+![](/assets/images/image907.png)
+
+Es **recomendable** que la persona embarazada:
 
 * Realice como mínimo 5 controles médicos durante el embarazo.
 * Lleve una alimentación variada y completa.
