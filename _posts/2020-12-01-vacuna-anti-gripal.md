@@ -8,7 +8,7 @@ tags:
 gestation_week: 8
 title: Vacuna anti gripal
 summary: Quiénes y cuándo tienen que vacunarse
-image: "/assets/images/vacuna_gripe.png"
+image: "/assets/images/gripe.png"
 video: ''
 post_id: '037'
 
