@@ -11,7 +11,6 @@ video: ''
 post_id: "27"
 
 ---
-
 #### Todas las personas gestantes tienen el derecho a una experiencia de parto positiva, tengo o no una confirmación de la infección por COVID-19
 
-![](/assets/images/emb_cov_001.png)
+![](/assets/images/2.png)
