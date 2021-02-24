@@ -13,7 +13,9 @@ video: ''
 post_id: '037'
 
 ---
-El Estado nacional garantiza las vacunas gratuitas contra la gripe en centros de salud y hospitales públicos de todo el país. 
+![](/assets/images/gripe.png)
+
+#### El Estado nacional garantiza las vacunas gratuitas contra la gripe en centros de salud y hospitales públicos de todo el país
 
 Además, para evitar enfermedades como neumonía o meningitis, es importante que todas estas personas reciban la vacuna contra el neumococo:
 
