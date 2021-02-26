@@ -6,7 +6,7 @@ tags: []
 gestation_week: 40
 title: Sueño seguro del bebé y COVID
 summary: Recomendaciones para dormir y crecer con seguridad
-image: "/assets/images/sueno_seguro_1.png"
+image: "/assets/images/hand-person-girl-white-photography-sweet-599852-pxhere-com.jpg"
 video: ''
 post_id: '058'
 
