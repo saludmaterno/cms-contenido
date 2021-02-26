@@ -10,22 +10,24 @@ video: ''
 post_id: '033'
 
 ---
-#### ¿Cuáles son los signos de alarma durante el embarazo? 
+#### ¿Cuáles son los signos de alarma durante el embarazo?
 
-\-Pérdida de sangre o líquido por la vagina. 
+![](/assets/images/gadget-heal-glasses-goggles-eyewear-hospital-554678-pxhere-com.jpg)
 
-\-Dolor de cabeza persistente, mareos o visión borrosa. 
+\-Pérdida de sangre o líquido por la vagina.
 
-\-Vientre duro y con dolor. 
+\-Dolor de cabeza persistente, mareos o visión borrosa.
 
-\-Fiebre alta (más de 38 grados). 
+\-Vientre duro y con dolor.
 
-\-Ausencia de movimientos del bebé luego del quinto mes. 
+\-Fiebre alta (más de 38 grados).
 
-\-Golpes o caídas. 
+\-Ausencia de movimientos del bebé luego del quinto mes.
 
-\-Vómitos persistentes o dolor en la boca del estómago. 
+\-Golpes o caídas.
 
-\-Hinchazón en alguna parte del cuerpo. En cualquiera de estos casos debés consultar con urgencia. 
+\-Vómitos persistentes o dolor en la boca del estómago.
+
+\-Hinchazón en alguna parte del cuerpo. En cualquiera de estos casos debés consultar con urgencia.
 
 Ministerio de Salud de la Nación
