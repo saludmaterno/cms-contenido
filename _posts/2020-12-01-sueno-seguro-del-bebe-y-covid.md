@@ -27,6 +27,4 @@ post_id: '058'
 * Evitá el exceso de abrigo y mantené el ambiente ventilado, con una temperatura ambiente moderada.
 * ¿Cuándo consultar con su pediatra? Si tu bebé tiene temperatura de 37,5°C o mayor, tos o rechazo de la comida.
 * Realizá los controles médicos durante el primer año de vida.
-
-    
-  FUENTE: Sociedad Argentina de Pediatría
+* FUENTE: Sociedad Argentina de Pediatría
