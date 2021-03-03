@@ -18,11 +18,13 @@ Vigilar la fecha de vencimiento.
 
 Seguir siempre las instrucciones del fabricante, de lo contrario puede ser poco efectivo e incluso peligroso.
 
-No mezclar productos. 
+No mezclar productos.
 
 #### Puntos clave al limpiar:
 
 Usar guantes de goma, siempre el mismo par solo para la limpieza.
+
+![](/assets/images/010_image.jpg)
 
 Para evitar accidentes, los productos deben guardarse en su envase original. Si se pasan a otros recipientes, deben colocarse rótulos o carteles con el detalle del contenido (Jabón líquido, Lavandina, Detergente), para que no confundirlos.
 
