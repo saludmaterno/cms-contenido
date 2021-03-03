@@ -5,9 +5,22 @@ tags: []
 gestation_week: 0
 title: Recomendaciones y medidas para evitar el COVID19
 summary: Recomendaciones útiles frente al COVID19
-image: "/assets/images/007_cuid_cov_cartel.png"
+image: "/assets/images/1-1.png"
 video: ''
 post_id: '007'
 
 ---
-![](/assets/images/007_cuid_cov_cartel.png)
+Lavá con agua y detergente todos los utensilios de cocina que uses.
+
+Limpiá las superficies y pisos en tres pasos:  
+1 - Pasá agua y detergente
+
+2 - Enjuagá
+
+2 - Desinfectá con una mezcla de 4 cucharadas soperas de lavandina y 1 litro de agua.
+
+Si se trata de superficies que no se pueden limpiar con agua y detergente, como celulares y otros aparatos electrónicos, usá una mezcla de 30% de agua con 70% de alcohol.
+
+![](/assets/images/1-1.png)
+
+Para más información, consultá por teléfono al sistema salud de tu localidad o acercate a los promotores y promotoras barriales
