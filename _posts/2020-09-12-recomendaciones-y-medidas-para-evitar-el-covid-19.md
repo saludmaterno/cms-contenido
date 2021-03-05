@@ -28,3 +28,5 @@ Si se trata de superficies que no se pueden limpiar con agua y detergente, como 
 Para más información, consultá por teléfono al sistema de salud de tu localidad o acercate a los promotores y promotoras barriales.
 
 También podés pedir más información llamando al número 120.
+
+FUENTE: Ministerio de Salud de la Nación
