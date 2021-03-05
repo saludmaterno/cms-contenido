@@ -12,7 +12,9 @@ post_id: '007'
 ---
 Lavá con agua y detergente todos los utensilios de cocina que uses.
 
-Limpiá las superficies y pisos en tres pasos:  
+Limpiá las superficies y pisos en tres pasos:
+
+  
 1 - Pasá agua y detergente
 
 2 - Enjuagá
@@ -23,6 +25,6 @@ Si se trata de superficies que no se pueden limpiar con agua y detergente, como 
 
 ![](/assets/images/007_image.png)
 
-Para más información, consultá por teléfono al sistema de salud de tu localidad o acercate a los promotores y promotoras barriales. 
+Para más información, consultá por teléfono al sistema de salud de tu localidad o acercate a los promotores y promotoras barriales.
 
 También podés pedir más información llamando al número 120.
