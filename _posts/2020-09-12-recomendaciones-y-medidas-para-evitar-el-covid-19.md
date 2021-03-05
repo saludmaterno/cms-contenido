@@ -5,7 +5,7 @@ tags: []
 gestation_week: 0
 title: Recomendaciones y medidas para evitar el COVID19
 summary: Recomendaciones útiles frente al COVID19
-image: "/assets/images/1-1.png"
+image: "/assets/images/007_image.png"
 video: ''
 post_id: '007'
 
@@ -21,6 +21,8 @@ Limpiá las superficies y pisos en tres pasos:
 
 Si se trata de superficies que no se pueden limpiar con agua y detergente, como celulares y otros aparatos electrónicos, usá una mezcla de 30% de agua con 70% de alcohol.
 
-![](/assets/images/1-1.png)
+![](/assets/images/007_image.png)
 
-Para más información, consultá por teléfono al sistema salud de tu localidad o acercate a los promotores y promotoras barriales
+Para más información, consultá por teléfono al sistema de salud de tu localidad o acercate a los promotores y promotoras barriales. 
+
+También podés pedir más información llamando al número 120.
