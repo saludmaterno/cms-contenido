@@ -6,7 +6,7 @@ tags: []
 gestation_week: 72
 title: Menores con asma y uso de aerocámara
 summary: Recomendaciones para acompañarlos a la guardia
-image: "/assets/images/aerocamara.png"
+image: "/assets/images/064_image.png"
 video: ''
 post_id: '064'
 
