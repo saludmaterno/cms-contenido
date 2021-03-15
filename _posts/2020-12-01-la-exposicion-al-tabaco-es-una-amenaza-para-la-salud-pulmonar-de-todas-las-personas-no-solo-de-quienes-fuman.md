@@ -14,9 +14,9 @@ video: ''
 post_id: '048'
 
 ---
-#### Cada año, la exposición al humo de tabaco causa más de 1 millón de muertes a nivel mundial.
+#### Cada año, la exposición al humo de tabaco causa más de 1 millón de muertes a nivel mundial
 
-La exposición al humo de tabaco se produce por el humo que se desprende del extremo ardiente de un cigarrillo o de otros productos de tabaco cuando se fuman, generalmente en combinación con el humo exhalado por quien fuma. 
+La exposición al humo de tabaco se produce por el humo que se desprende del extremo ardiente de un cigarrillo o de otros productos de tabaco cuando se fuman, generalmente en combinación con el humo exhalado por quien fuma.
 
 El consumo de tabaco y la exposición al humo de tabaco son importantes factores de riesgo de cáncer de pulmón, enfermedad pulmonar obstructiva crónica (EPOC), tuberculosis y asma.
 
