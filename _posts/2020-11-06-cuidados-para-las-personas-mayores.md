@@ -13,11 +13,11 @@ post_id: '006'
 ---
 En la actual pandemia de coronavirus COVID-19, las personas adultas mayores (65 años o más) y especialmente aquellas más frágiles, están más predispuestas a contagiarse y a desarrollar formas más graves, severas. El propio envejecimiento, la coexistencia de una o más enfermedades debilitantes y la fragilidad lo favorecen.
 
-La prevención y el auto cuidado, cualquiera sea nuestra situación global de salud, es la primer y mayor estrategia de protección.  
+La prevención y el auto cuidado, cualquiera sea nuestra situación global de salud, es la primer y mayor estrategia de protección.
 
 Existen pautas nacionales para todos los contextos de vida o atención, desde el hogar, hasta el ámbito hospitalario y las instituciones de larga estadía (residencias u hogares).
 
-Concurrir a servicios de salud incrementa el riesgo de contagiarse por lo cual solo debe hacerse en caso de alta necesidad. Si por alguna razón necesita atención médic, es preferible que solicite atención en domicilio.
+Concurrir a servicios de salud incrementa el riesgo de contagiarse por lo cual solo debe hacerse en caso de alta necesidad. Si por alguna razón necesita atención médica, es preferible que solicite atención en domicilio.
 
 Todas las medidas generales son aplicables en cualquier situación:
 
@@ -34,7 +34,7 @@ Todas las medidas generales son aplicables en cualquier situación:
 
 ![](/assets/images/006_image2.png)
 
-“Quedarse en casa” no supone desvincularse de los afectos, ya que actualmente existen muchos medios (desde la telefonía tradicional a los que posibilita la telefonía móvil o celular, aplicaciones y redes sociales). Una simple video llamada con hijos, nietos y amigos dos a tres veces por semana puede hacer la diferencia, incluso para personas que viven en instituciones. 
+“Quedarse en casa” no supone desvincularse de los afectos, ya que actualmente existen muchos medios (desde la telefonía tradicional a los que posibilita la telefonía móvil o celular, aplicaciones y redes sociales). Una simple video llamada con hijos, nietos y amigos dos a tres veces por semana puede hacer la diferencia, incluso para personas que viven en instituciones.
 
 “Quedarse en casa” supone también alimentarse  en forma saludable, así como mantener la movilidad, condición física y capacidad funcional.
 
