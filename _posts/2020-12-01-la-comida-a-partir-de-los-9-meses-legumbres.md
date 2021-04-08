@@ -1,6 +1,5 @@
 ---
 categories:
-- health
 - nutrition
 - rising
 tags: []
