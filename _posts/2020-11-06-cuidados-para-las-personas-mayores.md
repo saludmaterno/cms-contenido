@@ -1,6 +1,7 @@
 ---
 categories:
 - pandemic-healthcare
+- health
 tags: []
 gestation_week: 
 title: Cuidados para las personas adultas mayores
