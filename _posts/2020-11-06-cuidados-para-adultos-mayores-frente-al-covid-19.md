@@ -20,7 +20,7 @@ En el actual contexto de pandemia, los y las mayores de 65 años integran un gru
 * Desinfectá bien los objetos que se usan con frecuencia.
 * No te automediques y evitá que otras personas lo hagan.
 
-En caso de presentar síntomas, aunque sean leves, consultá inmediatamente al sistema de salud de tu localidad y seguí las recomendaciones.
+En caso de presentar síntomas, aunque sean leves, consultá inmediatamente al sistema de salud y seguí las recomendaciones.
 
 En la medida de lo posible, delegá los mandados o compra de medicamentos a personas de confianza o de tu entorno familiar que no pertenezcan a los grupos de riesgo.
 
