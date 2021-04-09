@@ -3,7 +3,7 @@ categories:
 - pandemic-healthcare
 - health
 tags: []
-gestation_week: 
+gestation_week: 0
 title: Cuidados para las personas adultas mayores
 summary: Consejos para cuidarnos en comunidad
 image: "/assets/images/006_image.png"
