@@ -12,20 +12,28 @@ post_id: '012'
 ---
 #### ¿Cuáles son nuestras mejores medidas de protección?
 
-Debés lavarte las manos frecuentemente con agua y jabón. También podés usar un desinfectante de manos a base de alcohol 
+Además de mantener la distancia social, usar barbijo y ventilar ambientes, una adecuada higiene de manos ayuda a prevenir contagios del nuevo coronavirus y muchas otras enfermedades. Es una medida muy sencilla y puede realizarse a través de dos acciones:
 
-¿Por qué hacer esto? De esta simple manera es posible matar al virus que puede estar en tus manos.
+* Lavado de manos con agua y jabón.
+* Usar soluciones a base de alcohol (por ejemplo, alcohol en gel).
 
-![](/assets/images/008_cuid_cov_cartel2.png)
+##### Es importante que te higienices las manos frecuentemente sobre todo:
 
-Al toser o estornudar, debemos cubrir la boca y la nariz con un pañuelo decartable. Las manos debe lavarse luego con agua y jabón o alcohol. Si no tenés pañuelos descartables en ese momento, se debe toser o estornudar en el pliegue del codo. 
+* Antes y después de manipular basura o desperdicios.
+* Antes y después de comer, manipular alimentos y/o amamantar.
+* Luego de haber tocado superficies de uso público: mostradores, pasamanos, picaportes, barandas, etc.
+* Después de manipular dinero, llaves, animales, etc.
+* Después de ir al baño o de cambiar pañales.
+* Al llegar a tu lugar de trabajo.
+* Al llegar a tu casa.
+* Después de toser, estornudar o limpiarte la nariz.
+* Fuera de tu casa evitá llevarte las manos a la cara.
 
-¿Por qué hacer esto? Al cubrir la boca y la nariz durante la tos o el estornudo se evita la propagación de gérmenes y virus, evitando así contaminar los objetos o personas.
+##### Método adecuado para el lavado de manos con agua y jabón:
 
-Mantener al menos 1 metro de distancia entre personas. 
+* Para reducir eficazmente el desarrollo de microorganismos en las manos, el lavado de manos debe durar al menos 40–60 segundos.
+* El lavado de manos con agua y jabón debés realizarlo siguiendo los pasos indicados en la ilustración.
 
-¿Por qué? Cuando alguien con una enfermedad respiratoria (como la infección por el nuevo coronavirus) tose o estornuda, proyecta pequeñas gotitas que contienen el virus. Si está demasiado cerca, las otras personas pueden inhalarlo. 
-
-Debemos evitar tocarnos los ojos, la nariz y la boca. ¿Por qué? Las manos tocan muchas superficies que pueden estar contaminadas con el virus. Al tocar nuestro propio rostro o tocar a otras personas sin habernos lavado correctamente las manos, puede transferirse el virus.
+![](/assets/images/13032020-lavado_manos-1.jpg)
 
 FUENTE: Adaptado de sugerencias del Ministerio de Salud de la Nación
