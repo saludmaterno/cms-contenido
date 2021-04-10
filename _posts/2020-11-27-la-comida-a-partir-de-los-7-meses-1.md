@@ -3,7 +3,7 @@ categories: []
 tags:
 - nutrition
 gestation_week: 68
-title: 'La comida a partir de los 7 meses: los hidratos de carbono'
+title: La comida a partir de los 7 meses
 summary: 'Fuentes de energía importantes en la dieta '
 image: "/assets/images/recetas_7_meses_hidratos.png"
 video: ''
