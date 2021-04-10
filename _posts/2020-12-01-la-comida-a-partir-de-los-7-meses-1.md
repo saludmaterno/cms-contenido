@@ -1,8 +1,6 @@
 ---
 categories:
-- health
 - nutrition
-- rising
 tags: []
 gestation_week: 68
 title: 'La comida a partir de los 7 meses: hidratos de carbono'
@@ -27,7 +25,9 @@ Ingredientes
 * 100 gramos de queso mantecoso
 * 1 cucharada sopera de aceite
 
-![](/assets/images/ff.png)Preparación
+![](/assets/images/ff.png)
+
+Preparación
 
 Hervir la calabaza, hacer un puré agregándole el aceite y cubrir la base de una fuente pequeña para horno. Picar la cebolla, rehogarla en una cucharadita de agua hasta que esté transparente y agregar la carne cortada en trozos muy pequeños, cocinando bien, hasta que no se vea ninguna parte rosada. Verter la mezcla sobre el puré de calabaza. Mezclar el choclo con el queso mantecoso en pedacitos y colocar sobre la carne formando otra capa. Gratinar 5 minutos al horno.
 
