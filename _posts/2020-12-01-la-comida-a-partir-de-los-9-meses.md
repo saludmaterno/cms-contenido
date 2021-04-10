@@ -1,8 +1,6 @@
 ---
 categories:
-- health
 - nutrition
-- rising
 tags: []
 gestation_week: 76
 title: 'La comida a partir de los 9 meses: hidratos de carbono'
