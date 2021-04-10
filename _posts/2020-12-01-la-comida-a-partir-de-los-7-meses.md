@@ -1,8 +1,6 @@
 ---
 categories:
-- health
 - nutrition
-- rising
 tags: []
 gestation_week: 68
 title: 'La comida a partir de los 7 meses: vitaminas'
@@ -12,7 +10,6 @@ video: ''
 post_id: '021'
 
 ---
-
 #### Dos recetas ricas con frutas
 
 Las frutas son una excelente fuente de vitaminas y minerales y no tienen que limitarse a ser postre. Pueden incorporarse muy fácil al plato principal o al desayuno. Es necesario lavarlas bien con agua segura, aunque se consuman peladas.
