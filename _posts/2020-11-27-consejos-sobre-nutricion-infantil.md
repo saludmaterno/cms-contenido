@@ -1,8 +1,6 @@
 ---
 categories:
-- health
 - nutrition
-- rising
 tags: []
 gestation_week: 64
 title: Consejos sobre nutrición infantil
@@ -13,11 +11,13 @@ video: ''
 post_id: '017'
 
 ---
-La alimentacion de las niñas y los niños pequeños es de gran importancia para su salud actual y futura. Un niño bien alimentado tendrá mejores oportunidades de crecimiento, desarrollo y aprendizaje. Luego del nacimiento, la lactancia materna es la mejor opción: ofrece la nutrición óptima, protege de enfermedades y fortalece el vínculo madre-bebé. 
+La alimentacion de las niñas y los niños pequeños es de gran importancia para su salud actual y futura. Un niño bien alimentado tendrá mejores oportunidades de crecimiento, desarrollo y aprendizaje. Luego del nacimiento, la lactancia materna es la mejor opción: ofrece la nutrición óptima, protege de enfermedades y fortalece el vínculo madre-bebé.
 
 La leche materna es el único alimento (y bebida) que se le debe ofrecer al bebé hasta el sexto mes de vida cumplido. A partir del sexto mes se debe empezar a sumar alimentos sólidos.
 
-![](/assets/images/image827.png) Las primeras comidas deben ser simples, de pocos ingredientes. Los alimentos nuevos deben ser incorporados de a uno por vez, para poder identificar claramente las intolerancias o alergias.
+![](/assets/images/image827.png) 
+
+Las primeras comidas deben ser simples, de pocos ingredientes. Los alimentos nuevos deben ser incorporados de a uno por vez, para poder identificar claramente las intolerancias o alergias.
 
 * No hay que agregar nunca sal a la comida de los bebés.
 * Si en casa no hay procesadora, se debe picar muy fino o desmenuzar los ingredientes.
