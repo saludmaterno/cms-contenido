@@ -1,8 +1,6 @@
 ---
 categories:
-- 'health '
 - nutrition
-- rising
 tags: []
 gestation_week: 64
 title: La comida a partir de los 6 meses - Hidratos de carbono
