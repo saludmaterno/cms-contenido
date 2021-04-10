@@ -3,9 +3,9 @@ categories:
 - pandemic-healthcare
 tags: []
 gestation_week: 0
-title: Cuidados para adultos mayores frente al COVID 19
+title: Adultos mayores frente al COVID 19
 summary: "¿Cómo prevenir el contagio?"
-image: "/assets/images/covid-19-03-02-es.jpg"
+image: "/assets/images/man-beach-sea-people-sun-woman-824243-pxhere-com-1.jpg"
 video: ''
 post_id: '009'
 
