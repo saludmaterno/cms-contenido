@@ -1,8 +1,6 @@
 ---
 categories:
-- health
 - nutrition
-- rising
 tags: []
 gestation_week: 68
 title: 'La comida a partir de los 7 meses: vegetales'
