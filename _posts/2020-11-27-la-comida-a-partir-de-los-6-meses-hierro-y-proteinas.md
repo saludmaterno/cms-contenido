@@ -1,7 +1,6 @@
 ---
 categories:
 - nutrition
-- rising
 tags: []
 gestation_week: 64
 title: La comida a partir de los 6 meses - Hierro y proteínas
@@ -11,7 +10,7 @@ video: ''
 post_id: '019'
 
 ---
-#### Dos recetas ricas en hierro y proteínas 
+#### Dos recetas ricas en hierro y proteínas
 
 A partir de los 6 meses es necesario complementar la leche materna agregando otros alimentos. Además, es el momento en que las y los bebés están listos para aprender a comer alimentos sólidos. Todas las comidas que se preparen para bebés deben ser en forma de puré o papillas espesas. Al tener poca agua, cada bocado le ofrecerá al niño o niña la mayor concentración de nutrientes y energía. Si la comida se escurre fácilmente de la cuchara quiere decir que el alimento tiene demasiada agua y pocos nutrientes.
 
@@ -20,8 +19,7 @@ A partir de los 6 meses es necesario complementar la leche materna agregando otr
 Ingredientes
 
 * 200 gramos de pollo sin piel
-
-  300 gramos de zapallo
+* 300 gramos de zapallo
 * 100 gramos de ricota entera
 * Agua segura, cantidad necesaria
 
