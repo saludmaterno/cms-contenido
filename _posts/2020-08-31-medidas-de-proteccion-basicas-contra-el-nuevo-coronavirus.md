@@ -6,23 +6,37 @@ tags: []
 post_id: '012'
 title: Medidas de protección básicas contra el nuevo coronavirus
 summary: Lavarse las manos frecuentemente con agua y jabón.
-image: "/assets/images/012_limpieza_manos.png"
+image: "/assets/images/012_image.png"
 video: ''
 gestation_week: 0
 
 ---
-#### ¿Por qué debemos lavarnos las manos con frecuencia? 
+#### Recomendaciones para cuando salís de tu casa
 
-![](/assets/images/012_image.png)
+* Antes de salir colocate un barbijo casero que te cubra nariz, boca y mentón.
+* Llevá alcohol en gel para limpiarte las manos luego de tocar superficies u objetos en lugares públicos. O lavate las manos con agua y jabón.
+* Mantené siempre el distanciamiento de 2 metros con otras personas.
+* Evitá reuniones en espacios cerrados.
+* No compartas el mate, la vajilla u otros utensilios personales.
+* Tosé o estornudá sobre el pliegue del codo o utilizá pañuelos descartables.
+* No te toques la cara.
 
-Lavar las manos con agua y jabón o utilizar un desinfectante a base de alcohol mata el virus y previene futuros contagios, no solo de COVID-19.
+### Transporte público para trabajadores esenciales
 
-Al toser o estornudar, debemos cubrir la boca y la nariz con un pañuelo descartable. Las manos deben lavarse luego con agua y jabón o alcohol. Si no se cuenta con pañuelos descartables, se debe toser o estornudar en el pliegue del codo.    
-  
-¿Por qué hacer esto? Al cubrir la boca y la nariz durante la tos o el estornudo se evita la propagación de gérmenes y virus, evitando así contaminar los objetos o personas.
+* Usá barbijo casero que te cubra nariz, boca y mentón.
+* Higienizate las manos antes, durante y después de los desplazamientos.
+* Llevá siempre alcohol en gel y pañuelos descartables.
+* Evitá los aglomeramientos en los puntos de acceso.
 
-Mantener al menos 1 metro de distancia entre personas.  ¿Por qué? Cuando alguien con una enfermedad respiratoria (como la infección por el nuevo coronavirus) tose o estornuda, proyecta pequeñas gotitas que contienen el virus. Si está demasiado cerca, las otras personas pueden inhalarlo.
+![](/assets/images/hand-drop-clean-bottle-baking-health-715370-pxhere-com.jpg)
 
-Se debe evitar tocarse los ojos, la nariz y la boca. ¿Por qué? Las manos tocan muchas superficies que pueden estar contaminadas con el virus. Al tocar el rostro propio o de otras personas sin haber lavado correctamente las manos, puede transferirse el virus.
+### Al volver a tu casa
 
-**Adaptado de sugerencias del Ministerio de Salud de la Nación**
+* Quitate el barbijo y ponelo a lavar o tiralo si es descartable. Retiralo desde el elástico sin tocar el frente, que puede estar contaminado.
+* No toques nada antes de lavarte las manos con agua y jabón.
+* Desinfectá el celular y otros objetos con alcohol al 70% (por ejemplo, en un rociador, 7 partes de alcohol con 3 partes de agua destilada o hervida).
+* Ventilá los ambientes de la casa.
+
+**Si tenés dos o más de los siguientes síntomas: fiebre de 37,5°C, tos, dolor de garganta, dificultad respiratoria, dolor muscular, cefalea, diarrea y/o vómitos, o si tenés solo pérdida brusca de gusto u olfato, no salgas de tu casa y consultá inmediatamente al sistema de salud de tu localidad**.
+
+Adaptado de sugerencias del Ministerio de Salud de la Nación
