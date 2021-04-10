@@ -1,12 +1,10 @@
 ---
 categories: []
 tags:
-- health
 - nutrition
-- rising
 gestation_week: 68
-title: La comida a partir de los 7 meses
-summary: Los hidratos de carbono también son importantes
+title: 'La comida a partir de los 7 meses: los hidratos de carbono'
+summary: 'Fuentes de energía importantes en la dieta '
 image: "/assets/images/recetas_7_meses_hidratos.png"
 video: ''
 post_id: '023'
