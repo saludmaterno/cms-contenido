@@ -10,7 +10,7 @@ tags:
 gestation_week: 38
 title: Conozcamos el calendario nacional de vacunación
 summary: "¿Cuándo tenemos que ir a vacunarnos?"
-image: "/assets/images/white-green-ceramic-machine-blue-toy-1192095-pxhere-com.jpg"
+image: "/assets/images/white-green-ceramic-machine-blue-toy-1192095-pxhere-com-1.jpg"
 video: ''
 post_id: '039'
 
