@@ -40,9 +40,8 @@ Cuando vayas al centro de salud a vacunarte o vacunar a tu bebé, recordá siemp
 
 Niños y niñas, en particular los lactantes, son más susceptibles a contraer enfermedades.
 
-Hepatitis B: Una dosis neonatal: recién nacidos dentro de las primeras 12 horas de vida.
-
-Tuberculosis (BCG): Única dosis: recién nacidos, antes de egresar de la maternidad.
+* Hepatitis B: Una dosis neonatal: recién nacidos dentro de las primeras 12 horas de vida.
+* Tuberculosis (BCG): Única dosis: recién nacidos, antes de egresar de la maternidad.
 
 #### Vacunas hasta el año de vida
 
@@ -50,48 +49,37 @@ La mayoría de las vacunas se aplican durante el primer año de vida.Es fundamen
 
 A los 2 meses
 
-    Neumococo conjugada: primera dosis.
-
-    Poliomielitis: primera dosis (IPV o Salk)
-
-    Quíntuple pentavalente: primera dosis.
-
-    Rotavirus: primera dosis.
+* Neumococo conjugada: primera dosis. 
+* Poliomielitis: primera dosis (IPV o Salk) 
+* Quíntuple pentavalente: primera dosis.  
+* Rotavirus: primera dosis.
 
 A los 3 meses
 
-    Meningococo: primera dosis.
+* Meningococo: primera dosis.
 
 A los 4 meses
 
-    Neumococo conjugada: segunda dosis.
-
-    Poliomielitis: segunda dosis (IPV o Salk)
-
-    Quíntuple Pentavalente: segunda dosis.
-
-    Rotavirus: segunda dosis.
+* Neumococo conjugada: segunda dosis. 
+* Poliomielitis: segunda dosis (IPV o Salk) 
+* Quíntuple Pentavalente: segunda dosis.  
+* Rotavirus: segunda dosis.
 
 A los 5 meses
 
-    Meningococo: segunda dosis.
+* Meningococo: segunda dosis.
 
 A los 6 meses
 
-    Poliomielitis: tercera dosis (IPV o Salk)
-
-    Quíntuple Pentavalente: tercera dosis.
+* Poliomielitis: tercera dosis (IPV o Salk) 
+* Quíntuple Pentavalente: tercera dosis.
 
 Entre los 6 y los 24 meses
 
-    Gripe: dos dosis, con un intervalo mínimo de 4 semanas entre la primera y la segunda.
-
-    Los menores de 24 meses que hubieran recibido dos dosis de vacuna antigripal anteriormente, deberán recibir una dosis.
+* Gripe: dos dosis, con un intervalo mínimo de 4 semanas entre la primera y la segunda. Los menores de 24 meses que hubieran recibido dos dosis de vacuna antigripal anteriormente, deberán recibir una dosis.
 
 A los 12 meses
 
-    Neumococo conjugada: refuerzo de dosis
-
-    Hepatitis A: única dosis
-
-    Triple viral: primera dosis.
+* Neumococo conjugada: refuerzo de dosis 
+* Hepatitis A: única dosis  
+* Triple viral: primera dosis.
