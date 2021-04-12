@@ -8,12 +8,12 @@ title: 'Lactancia materna segura durante la pandemia '
 summary: El contacto piel con piel y una lactancia materna, temprana y exclusiva,
   ayuda al bebé a desarrollarse, por lo que no hay razón para interrumpirla como consecuencia
   del virus.
-image: "/assets/images/lactancia_covid.png"
+image: "/assets/images/sky-flower-petal-balloon-love-heart-683506-pxhere-com.jpg"
 video: ''
 post_id: '054'
 
 ---
-#### Lactancia materna segura durante la pandemia 
+#### Lactancia materna segura durante la pandemia
 
 El contacto piel con piel y una lactancia materna, temprana y exclusiva, ayuda al bebé a desarrollarse, por lo que no hay razón para interrumpirla como consecuencia del virus. Hasta la fecha, no se ha detectado la transmisión de casos activos de COVID-19 a través de la leche materna ni de la lactancia.
 
@@ -29,10 +29,12 @@ Sí, continuá la lactancia materna pero con las debidas precauciones. Estas inc
 
 ¿Qué debería hacer si no me siento bien para darle el pecho a mi bebé?
 
-Si te sentís demasiado enferma para darle el pecho a tu bebé, intentá darle la leche materna por otros medios seguros. Por ejemplo, trata de extraerte la leche y dársela a pequeños sorbos con una cuchara o una taza limpia. La extracción de leche también es importante para mantener tu producción, de manera que puedas volver a darle el pecho a tu hijo cuando te sientas mejor. Los extractores de leche, recipientes de almacenamiento y utensilios para la alimentación del bebé deben lavarse después de cada uso. 
+Si te sentís demasiado enferma para darle el pecho a tu bebé, intentá darle la leche materna por otros medios seguros. Por ejemplo, trata de extraerte la leche y dársela a pequeños sorbos con una cuchara o una taza limpia. La extracción de leche también es importante para mantener tu producción, de manera que puedas volver a darle el pecho a tu hijo cuando te sientas mejor. Los extractores de leche, recipientes de almacenamiento y utensilios para la alimentación del bebé deben lavarse después de cada uso.
 
 ¿Debería darle el pecho a mi bebé si está enferma/o?
 
-Continuá dándole el pecho a tu niño o niña aunque esté enfermo/a. Tanto si contrae  COVID-19 como cualquier otra enfermedad, es importante seguir alimentandolo con leche materna. La lactancia refuerza el sistema inmunológico de tu bebé y a través de la leche le pasás tus anticuerpos, ayudándolo a combatir las infecciones. 
+Continuá dándole el pecho a tu niño o niña aunque esté enfermo/a. Tanto si contrae  COVID-19 como cualquier otra enfermedad, es importante seguir alimentandolo con leche materna. La lactancia refuerza el sistema inmunológico de tu bebé y a través de la leche le pasás tus anticuerpos, ayudándolo a combatir las infecciones.
+
+![](/assets/images/lactancia_covid.png)
 
 FUENTE: UNICEF
