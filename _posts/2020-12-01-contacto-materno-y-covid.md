@@ -1,6 +1,5 @@
 ---
 categories:
-- nutrition
 - health
 tags: []
 gestation_week: 40
