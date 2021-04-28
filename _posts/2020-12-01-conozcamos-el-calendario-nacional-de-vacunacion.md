@@ -2,11 +2,9 @@
 categories:
 - vaccines
 - health
-- rising
 tags:
 - 'vaccines '
 - health
-- rising
 gestation_week: 38
 title: Conozcamos el calendario nacional de vacunación
 summary: "¿Cuándo tenemos que ir a vacunarnos?"
