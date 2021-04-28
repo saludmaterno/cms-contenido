@@ -10,8 +10,6 @@ video: ''
 post_id: 001b
 
 ---
-Mantener a tu familia sana y segura frente al COVID-19 podría parecer aún más difícil cuando vivimos en condiciones de hacinamiento. Hay cosas que podemos hacer para que sea más fácil para toda la familia.
-
 #### Tenemos que compartir la carga
 
 Cuidar a los niños y otros integrantes de la familia es difícil en lugares con poco espacio, pero es mucho más fácil cuando se dividen las responsabilidades.
@@ -22,7 +20,7 @@ Una solución es crear un horario con tiempos de actividad y otros de descanso, 
 
 Está bien pedir ayuda cuando nos sentimos con cansancio o tensión. El tiempo de pausa es necesario para poder retomar luego las actividades. Descansar es un derecho de todas las personas.
 
-Manteniendo un ambiente positivo, teniendo una rutina e intentando dar un tiempo personal a cada hijo/a cuando puedas, te ayudará a manejar tus sentimientos y la convivencia entre todas las personas. 
+Manteniendo un ambiente positivo, teniendo una rutina e intentando dar un tiempo personal a cada hijo/a cuando puedas, te ayudará a manejar tus sentimientos y la convivencia entre todas las personas.
 
 ![](/assets/images/001b_image.png)
 
