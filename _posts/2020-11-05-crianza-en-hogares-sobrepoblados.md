@@ -4,7 +4,7 @@ categories:
 tags: []
 gestation_week: 
 title: Crianza en hogares sobrepoblados
-summary: Recomendaciones para cuidarnos en casa cuando somos muchos
+summary: 'Recomendaciones para cuidarnos cuando somos muchos en casa '
 image: "/assets/images/abc-alphabet-alphabet-letter-baby-basic-blank-1437975-pxhere-com.jpg"
 video: ''
 post_id: 001a
