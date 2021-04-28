@@ -1,7 +1,6 @@
 ---
 categories:
 - pandemic-healthcare
-- health
 tags: []
 gestation_week: 40
 title: Una experiencia de parto positiva
