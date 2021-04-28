@@ -3,8 +3,8 @@ categories:
 - pandemic-healthcare
 tags: []
 gestation_week: 0
-title: 'Crianza y cuidados en casa  '
-summary: Consejos para cuidarnos cuando somos muchos en casa
+title: 'En casa durante la pandemia  '
+summary: La salud de toda la familia es algo que construimos en conjunto
 image: "/assets/images/grass-architecture-structure-plant-lawn-meadow-630664-pxhere-com.jpg"
 video: ''
 post_id: 001b
