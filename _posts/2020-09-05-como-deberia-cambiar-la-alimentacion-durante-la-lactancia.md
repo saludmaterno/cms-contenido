@@ -2,6 +2,7 @@
 categories:
 - lactation
 - featured
+- nutrition
 tags: []
 post_id: '0016'
 title: "¿Cómo debería cambiar la alimentación durante la lactancia?"
