@@ -12,9 +12,9 @@ post_id: '072'
 ---
 #### Los límites contienen
 
-Los niños y niñass van comprendiendo de a poco lo que significan los límites. Las normas deben ser pocas, pero las necesarias, teniendo en cuenta que se van adquiriendo de a poco y a medida que crecen. Si bien pueden reconocer lo que está bien y lo que está mal antes de los 3 años, recién  entendienden las consecuencias de sus acciones a partir de esa edad.   
-  
-Mientras tanto, deberemos repetirles los límites muchas veces. 
+Los niños y niñas van comprendiendo de a poco lo que significan los límites. Las normas deben ser pocas, pero las necesarias, teniendo en cuenta que se van adquiriendo de a poco y a medida que crecen. Si bien pueden reconocer lo que está bien y lo que está mal antes de los 3 años, recién  entienden las consecuencias de sus acciones a partir de esa edad.
+
+Mientras tanto, deberemos repetirles los límites muchas veces.
 
 ![](/assets/images/crianza_sin_violencia_4a.png)
 
