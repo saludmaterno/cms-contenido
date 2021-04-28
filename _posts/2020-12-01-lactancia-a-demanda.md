@@ -1,8 +1,6 @@
 ---
 categories:
 - lactation
-- health
-- rising
 tags: []
 gestation_week: 40
 title: Lactancia a demanda
