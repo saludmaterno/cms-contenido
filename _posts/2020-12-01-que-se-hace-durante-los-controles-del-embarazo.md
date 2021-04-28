@@ -28,7 +28,7 @@ post_id: '032'
 
 •Te ayudan a reconocer una emergencia y te citan para la próxima visita.
 
-![](/assets/images/image887-1.png)
+![](/assets/images/d.png)
 
 Algunos consejos importantes
 
