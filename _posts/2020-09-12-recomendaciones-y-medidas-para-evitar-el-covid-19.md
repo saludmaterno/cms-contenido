@@ -4,7 +4,7 @@ categories:
 tags: []
 gestation_week: 0
 title: Recomendaciones y medidas para evitar el COVID19
-summary: Recomendaciones útiles frente al COVID19
+summary: Consejos útiles de higiene y salud
 image: "/assets/images/007_image.png"
 video: ''
 post_id: '007'
