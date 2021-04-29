@@ -10,7 +10,7 @@ tags:
 gestation_week: 0
 title: Tabaquismo y cáncer de pulmón
 summary: Promovamos una vida sin tabaco
-image: "/assets/images/tabaquismo_ops_2.png"
+image: "/assets/images/writing-hand-person-smoke-smoking-leg-1022077-pxhere-com.jpg"
 video: ''
 post_id: '044'
 
