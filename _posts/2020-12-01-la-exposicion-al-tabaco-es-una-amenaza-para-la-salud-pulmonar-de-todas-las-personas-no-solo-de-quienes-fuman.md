@@ -9,7 +9,7 @@ title: La exposición al tabaco es una amenaza para la salud pulmonar de todas l
   personas,no solo de quienes fuman
 summary: El humo del tabaco contribuye a la contaminación del aire en lugares cerrados,
   lo cual es una grave amenaza para la salud pulmonar.
-image: "/assets/images/tabaco_muertes.png"
+image: "/assets/images/hand-snow-winter-white-insect-weather-908295-pxhere-com.jpg"
 video: ''
 post_id: '048'
 
