@@ -8,7 +8,7 @@ gestation_week: 0
 title: "¿Cómo te quita la respiración el tabaco?"
 summary: Con una simple inspiración, los cientos de toxinas en el humo del tabaco
   empiezan a lesionar los pulmones.
-image: "/assets/images/tabaco_humo.png"
+image: "/assets/images/smoke-smoking-dish-meal-food-produce-1021487-pxhere-com.jpg"
 video: ''
 post_id: '047'
 
