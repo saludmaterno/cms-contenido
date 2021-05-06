@@ -24,4 +24,4 @@ Aún antes de que aprendan a caminar, los niños y niñas pueden empezar a sufri
 
 La población adolescente que fuma tiene más probabilidades de padecer trastornos respiratorios crónicos y corre el riesgo de lesionar irreparablemente sus pulmones. Los pulmones siguen creciendo hasta bien avanzada la edad adulta, pero la inhalación de las toxinas contenidas en el humo del tabaco hace más lento este proceso y causa daño pulmonar potencialmente irreversible.
 
-![](/assets/images/tabaco_muertes.png)
+![](/assets/images/tabaquismo_ops_1.png)
