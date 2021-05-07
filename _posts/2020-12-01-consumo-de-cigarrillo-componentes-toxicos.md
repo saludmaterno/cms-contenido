@@ -18,9 +18,9 @@ post_id: '041'
 
 El proceso de dejar de fumar no es fácil. Un primer paso es adquirir información sobre el tabaquismo y cómo éste nos afecta, así como tomar conciencia sobre el lugar que el cigarrillo tiene en el día a día y por qué es un problema
 
-También es útil observar a otros personas fumadoras, prestando atención especialmente a los aspectos negativos de la adicción (sí, leíste bien, de la adicción). Muchas veces se cree que  el fumar es una elección personal en lugar de una adicción, es decir, quienes fuman no se consideran dependientes de una sustancia.
+También es útil observar a otras personas fumadoras, prestando atención especialmente a los aspectos negativos de la adicción (sí, leíste bien, de la adicción). Muchas veces se cree que  el fumar es una elección personal en lugar de una adicción, es decir, quienes fuman no se consideran dependientes de una sustancia.
 
-Se suele tener una creencia casi mística de que “algún día”, “de alguna manera”, llegará un momento mágico que será absolutamente perfecto para dejar de fumar. Quien fuma tratará de buscar todas las razones a favor y en contra del tabaco y mientras pospone el dejar de fumar. 
+Se suele tener una creencia casi mística de que “algún día”, “de alguna manera”, llegará un momento mágico que será absolutamente perfecto para dejar de fumar. Quien fuma tratará de buscar todas las razones a favor y en contra del tabaco y mientras pospone el dejar de fumar.
 
 Algunas personas esperan que mientras piensan, el problema se irá por sí sólo. Esto se da porque es más fácil desear el cambio que trabajar para que suceda.
 
