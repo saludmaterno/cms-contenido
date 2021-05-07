@@ -27,8 +27,6 @@ Consumir tabaco para pipa de agua o narguile es igual de perjudicial para la sal
 
 Más del 80% de los 1300 millones de personas que consumen tabaco viven en países de ingresos medianos o bajos, donde la carga de morbimortalidad asociada a este producto es más alta. El tabaquismo aumenta la pobreza porque los hogares gastan en tabaco un dinero que podrían dedicar a necesidades básicas como la alimentación y la vivienda.
 
-#### **Medidas esenciales para reducir la demanda de tabaco**
-
 #### **El humo ajeno mata**
 
 El humo ajeno es el que llena espacios cerrados cuando se queman productos de tabaco y no hay un nivel seguro de exposición al humo de tabaco ajeno.
@@ -50,18 +48,14 @@ La Ley Nacional 26.687 suma además la obligación de incluir mensajes sobre las
 
 #### **Los impuestos son una medida eficaz para reducir el consumo de tabaco**
 
-Los impuestos al tabaco son el medio más eficaz de reducir el consumo de tabaco y los costos de la atención de salud, sobre todo entre los jóvenes y la población de bajos ingresos, a la vez que permiten incrementar los ingresos fiscales en muchos países. 
+Los impuestos al tabaco son el medio más eficaz de reducir el consumo de tabaco y los costos de la atención de salud, sobre todo entre los jóvenes y la población de bajos ingresos, a la vez que permiten incrementar los ingresos fiscales en muchos países.
 
 Pese a ello, introducir impuestos elevados al tabaco es la medida menos aplicadas para el control del consumo.
 
 #### **Las personas que consumen necesitan ayuda para abandonar el tabaquismo**
 
 * Los estudios demuestran que pocas personas conocen los riesgos concretos para la salud que entraña el consumo de tabaco. Ahora bien, cuando los fumadores pasan a ser conscientes de los peligros del tabaco, la mayoría quieren dejarlo.
-
-
 * Sin apoyo para dejar de fumar, solo el 4% de los intentos funcionan.
-
-
 * El apoyo profesional y una medicación de eficacia probada pueden duplicar con creces las probabilidades de éxito para abandonar el tabaco.
 
 FUENTE: Organización Mundial de la Salud
