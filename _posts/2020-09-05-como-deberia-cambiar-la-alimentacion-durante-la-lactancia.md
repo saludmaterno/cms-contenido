@@ -1,7 +1,6 @@
 ---
 categories:
 - lactation
-- featured
 - nutrition
 tags: []
 post_id: '0016'
