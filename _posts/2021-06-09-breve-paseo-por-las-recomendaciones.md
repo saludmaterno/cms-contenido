@@ -1,13 +1,18 @@
 ---
-last_modified_at: 2021-06-09 13:37:22 -0300
+last_modified_at: ''
 categories:
 - featured
 tags:
 - 'featured '
 title: Breve paseo por las recomendaciones
 header:
-  teaser: "/assets/images/overview-recomendaciones1-1.png"
-  og_image: "/assets/images/overview-recomendaciones_lactancia1.png"
+  teaser: ''
+  og_image: ''
+image: "/assets/images/overview-recomendaciones1-1.png"
+summary: ''
+video: ''
+post_id: ''
+gestation_week: 
 
 ---
 Toda la información que te acercamos está siempre disponible y actualizada.  
@@ -29,6 +34,6 @@ Deslizando hacia los costados podrás explorarlas y leer todos los posteos para 
 
 > ![](/assets/images/overview-recomendaciones_lactancia1-1.png)
 
-Algunos posteos vienen acompañados de apoyaturas visuales y otros contienen videos, para que la información sea lo más completa posible.
+Algunos posteos vienen acompañados de imágenes y otros contienen videos, para que la información sea lo más completa posible. Deslizando con el dedo la pantalla podrás leerlos hasta el final.
 
 ![](/assets/images/overview-posteo1.png)

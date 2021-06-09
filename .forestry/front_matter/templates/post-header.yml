@@ -27,5 +27,3 @@ fields:
   type: tag_list
   default: []
   label: tags
-pages:
-- _posts/2021-06-09-breve-paseo-por-las-recomendaciones.md
