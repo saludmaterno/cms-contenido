@@ -9,7 +9,7 @@ header:
   teaser: ''
   og_image: ''
 image: "/assets/images/overview-recomendaciones1-1.png"
-summary: ''
+summary: "¡Por favor, no te olvides de completar tu perfil!"
 video: ''
 post_id: ''
 gestation_week: 
