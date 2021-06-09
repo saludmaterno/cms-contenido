@@ -1,6 +1,7 @@
 ---
 last_modified_at: 2021-06-09 13:37:22 -0300
-categories: []
+categories:
+- featured
 tags:
 - 'featured '
 title: Breve paseo por las recomendaciones
