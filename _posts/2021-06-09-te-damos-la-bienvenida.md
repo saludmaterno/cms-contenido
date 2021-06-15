@@ -5,7 +5,7 @@ tags: []
 gestation_week: 0
 title: "¡Te damos la bienvenida! "
 summary: Gracias por permitir que te acompañemos a cuidar tu salud y la de tu familia
-image: "/assets/images/logo-app-contraste-invertido.png"
+image: "/assets/images/a.png"
 video: ''
 post_id: ''
 
