@@ -7,7 +7,7 @@ title: "¡Te damos la bienvenida! "
 summary: Gracias por permitir que te acompañemos a cuidar tu salud y la de tu familia
 image: "/assets/images/a.png"
 video: ''
-post_id: ''
+post_id: '0996'
 
 ---
 #### Mi Casa, Mi Salud
