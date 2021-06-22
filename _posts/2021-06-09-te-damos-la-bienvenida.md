@@ -24,10 +24,6 @@ Tocando con tu dedo en "Perfil" podrás completar tus datos, contarnos sobre tu 
 
 ![](/assets/images/ab.jpeg)
 
-'Casa' 
-
- 
-
 ![](/assets/images/abe.jpeg)
 
 En "Mapa" vas a encontrar cuáles son las famarcias y los centros de salud más cercanos a tu casa. Recordá que podrás actualizar estos datos cada vez que necesites, por ejemplo, cuando termine tu embarazo y nazca tu bebé. Así, podremos brindarte la mejor información.
@@ -35,5 +31,3 @@ En "Mapa" vas a encontrar cuáles son las famarcias y los centros de salud más 
  
 
 ![](/assets/images/abd.jpeg)
-
-Muchas Gracias!.
