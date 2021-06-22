@@ -15,6 +15,8 @@ post_id: ''
 gestation_week: 
 
 ---
+**Breve paseo por las recomendaciones**
+
 Toda la información que te acercamos está siempre disponible y actualizada.
 
 En la parte superior vas a ver el listado de categorías que agrupan todas las recomendaciones que ofrece la aplicación:
@@ -38,3 +40,5 @@ Deslizando hacia los costados podrás explorarlas y leer todos los posteos para 
 Algunos posteos vienen acompañados de imágenes y otros contienen videos, para que la información sea lo más completa posible. Deslizando con el dedo la pantalla podrás leerlos hasta el final.
 
 ![](/assets/images/123.png)
+
+asdasdasdasdasda
