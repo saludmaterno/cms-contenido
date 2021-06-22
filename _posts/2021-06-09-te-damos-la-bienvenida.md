@@ -20,13 +20,19 @@ Para eso, es MUY IMPORTANTE que completes tus datos. ¿De qué manera? Abajo de 
 
 Tocando con tu dedo en "Perfil" podrás completar tus datos, contarnos sobre tu vivienda, sobre las personas que viven con vos, si has tenido complicaciones en tu embarazo o cuál es el estado de salud de tu familia.
 
+ 
+
 ![](/assets/images/ab.jpeg)
 
-'Casa'
+'Casa' 
+
+ 
 
 ![](/assets/images/abe.jpeg)
 
 En "Mapa" vas a encontrar cuáles son las famarcias y los centros de salud más cercanos a tu casa. Recordá que podrás actualizar estos datos cada vez que necesites, por ejemplo, cuando termine tu embarazo y nazca tu bebé. Así, podremos brindarte la mejor información.
+
+ 
 
 ![](/assets/images/abd.jpeg)
 
