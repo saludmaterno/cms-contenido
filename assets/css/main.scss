@@ -1,0 +1,23 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+$custom-bar-color: #790c5a;
+
+.masthead {
+  color: white;
+  background-color: $custom-bar-color;
+  #site-nav {
+    background-color: $custom-bar-color;
+    a {
+      color: white;
+    }
+    a.site-logo {
+      background-color: white;
+      border-radius: .3em;
+    }
+  }
+}
