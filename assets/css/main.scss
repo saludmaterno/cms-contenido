@@ -1,17 +1,17 @@
 ---
 ---
 
+$custom-violet: #68366e;
+$link-color:$custom-violet;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-$custom-bar-color: #790c5a;
-
 .masthead {
   color: white;
-  background-color: $custom-bar-color;
+  background-color: $custom-violet;
   #site-nav {
-    background-color: $custom-bar-color;
+    background-color: $custom-violet;
     a {
       color: white;
     }
